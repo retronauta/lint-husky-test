@@ -7,7 +7,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "prepare": "husky install",
-    "test": "echo \"ok\" && exit 1"
+    "test": "echo \"ok\" "
   },
   "keywords": [],
   "author": "",
