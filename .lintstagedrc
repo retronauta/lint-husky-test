@@ -1,4 +1,3 @@
 {
-  "{src, test}/**/*.{js, jsx}": ["eslint", "eslint --fix ."],
-  "{src, test}/**/*.{ts, tsx}": ["eslint", "eslint --fix ."]
+  "{src, test}/**/*.{js, jsx, ts, tsx}": ["eslint", "eslint --fix ."]
 }
